@@ -95,12 +95,17 @@ A curated collection of tools, services, and readings useful for building produc
 | [Ghost CMS](https://ghost.org/) | Open-source headless CMS for publishing |
 | [Read the Docs](https://readthedocs.org/) | Documentation hosting for open-source projects |
 
-## Testing & QA
+## Testing & Performance
 
 | Tool | Description |
 |------|-------------|
-| [Ada](https://www.ada.cx/) | AI-powered customer service automation |
 | [JMeter](https://jmeter.apache.org/) | Open-source load and performance testing tool |
+
+## Reverse Engineering & Security
+
+| Tool | Description |
+|------|-------------|
+| [IDA Free](https://hex-rays.com/ida-free) | Free disassembler and binary analysis tool by Hex-Rays |
 
 ## Source Control & CI/CD
 
